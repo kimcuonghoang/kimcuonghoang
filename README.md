@@ -58,8 +58,8 @@
 ## 📫 Kết nối với mình
 
 - ✉️ Email: [your.email@example.com](mailto:your.email@example.com)
-- 💼 LinkedIn: [linkedin.com/in/kimcuonghoang](https://linkedin.com/in/kimcuonghoang) *(thay bằng link thật nếu có)*
-- 🌐 Portfolio: [kimcuong.dev](https://kimcuong.dev) *(nếu có)*
+- 💼 LinkedIn: [linkedin.com/in/kimcuonghoang](https://linkedin.com/in/kimcuonghoang) 
+- 🌐 Portfolio: [kimcuong.dev](https://kimcuong.dev) 
 
 ---
 
